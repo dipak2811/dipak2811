@@ -23,6 +23,6 @@
 
  
 
-[![Contact with me](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/samarth-dadhaniya](https://in.linkedin.com/in/dipak-gorfad-5907041b9)) 
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://in.linkedin.com/in/dipak-gorfad-5907041b9)
 [![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/dipak2811)
 
