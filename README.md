@@ -1,13 +1,13 @@
-# Hi there 👋 Dipak this Side 
+# Hi there 👋 Dipak this side 
  
  
 
 ## :technologist: I am Front End developer.
 
 - 🌍  I'm based in Gujarat, India
-- 🖥️  I am pursuing Diploma in Computer Engineering
-- 🧠  Currently learning React.Js
-- 🤝  I'm open to collaborating on interesting projects as a developer
+- 🖥️  I am working as software devlopment trainee at Simform. 
+- 🧠  Currently learning React.Js,Nodejs,Expressjs
+- 🤝  I'm open to collaborating on interesting projects as a developer.
 
  
 
@@ -15,7 +15,7 @@
 
  
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,typescript,mysql,vscode,figma,xd,androidstudio,nodejs,redux)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,bootstrap,typescript,react,nodejs,express,mongodb,redux,postman,mysql,vscode,firebase,netlify)
 
  
 
@@ -23,10 +23,6 @@
 
  
 
-[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samarth-dadhaniya) 
-[![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/samarthdadhaniya) 
-[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://instagram.com/samarth_14_1_?igshid=ZDdkNTZiNTM=)
-[![Contact with me](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SAMARTH_14_1)
-[![Contact with me](https://skillicons.dev/icons?i=devto)](https://dev.to/samarth14)
-[![Contact with me](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/)
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/samarth-dadhaniya](https://in.linkedin.com/in/dipak-gorfad-5907041b9)) 
+[![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/dipak2811)
 
