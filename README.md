@@ -15,7 +15,7 @@
 
  
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,bootstrap,typescript,react,nodejs,express,mongodb,redux,postman,mysql,vscode,firebase,netlify,c++,c,java,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,bootstrap,typescript,react,nodejs,express,mongodb,redux,postman,mysql,vscode,firebase,netlify,cpp,c,java,python)
 
  ### Badges
 
