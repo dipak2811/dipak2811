@@ -2,7 +2,7 @@
  
  
 
-## :technologist: I am Front End developer.
+## :technologist: I am Full stack developer.
 
 - 🌍  I'm based in Gujarat, India
 - 🖥️  I am working as software devlopment trainee at Simform. 
