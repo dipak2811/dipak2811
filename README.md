@@ -5,8 +5,8 @@
 ## :technologist: I am Full stack developer.
 
 - 🌍  I'm based in Gujarat, India
-- 🖥️  I am working as software devlopment trainee at Simform. 
-- 🧠  Currently learning React.Js,Nodejs,Expressjs
+- 🖥️  I am working as software developer at TechEniac. 
+- 🧠  Currently working in React.Js,Nextjs,Nodejs,Expressjs,AWS service like lambda,API Gateway.
 - 🤝  I'm open to collaborating on interesting projects as a developer.
 
  
